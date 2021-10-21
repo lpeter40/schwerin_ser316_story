@@ -1,23 +1,23 @@
 Raesfeld = Raesfeld
 Flughafen = Airport
-Berlin
-Bratwurst
-Hauptstrasse
+Berlin(Capital of Germany)
+Bratwurst(Type of Sausage)
+Hauptstrasse = Main Road/Road
 Brot = Bread 
 Klimaanlage = Air Conditioning
-Rammstein
-Porsche
-BMW
+Rammstein(Band)
+Porsche(Car Brand)
+BMW(Car Brand)
 Biergarten = Beer Garden
-Ratskeller 
-Dirndel
-Lederhose
+Ratskeller = Underground Bar
+Dirndel = Dress
+Lederhose = Leather Breeches
 Schloss = Lock
 wettbewerbsfaehig = Competitive
-Mehlhase 
+Mehlhase(Professor) 
 Gebaeck = Pastries
 Baeckerei = Backery
 Hund = Dog
-Doner
+Doner = Kebab
 Apfelkuchen = Apple Cake
-Eltz =
+Schloss Eltz(A German Castle)
