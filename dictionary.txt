@@ -1,0 +1,23 @@
+Raesfeld = Raesfeld
+Flughafen = Airport
+Berlin
+Bratwurst
+Hauptstrasse
+Brot = Bread 
+Klimaanlage = Air Conditioning
+Rammstein
+Porsche
+BMW
+Biergarten = Beer Garden
+Ratskeller 
+Dirndel
+Lederhose
+Schloss = Lock
+wettbewerbsfaehig = Competitive
+Mehlhase 
+Gebaeck = Pastries
+Baeckerei = Backery
+Hund = Dog
+Doner
+Apfelkuchen = Apple Cake
+Eltz =
